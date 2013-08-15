@@ -107,4 +107,4 @@
 
 
 
-(color-theme-solarized-dark)
+(color-theme-solarized-light)
