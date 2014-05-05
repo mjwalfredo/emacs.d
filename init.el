@@ -58,3 +58,5 @@
 ;;; Always display line numbers in left margin
 (global-nlinum-mode 1)
 
+(icy-mode 1)
+
